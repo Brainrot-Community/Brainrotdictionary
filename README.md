@@ -1,4 +1,4 @@
-# Brainrotdictionary
+# Brainrot dictionary
 
 The Brainrot Dictionary is a comprehensive and evolving lexicon dedicated to cataloging the dynamic, often absurd, and deeply contextual language that has emerged from modern digital culture. Rooted in the fast-moving worlds of social media, online gaming, meme subcultures, and digital communities, this project seeks to provide structured insight into what is commonly referred to as “brainrot” — a colloquial term used to describe the chaotic, humorous, and often surreal communication patterns that define large segments of the internet.
 
